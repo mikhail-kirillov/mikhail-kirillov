@@ -17,7 +17,9 @@ I am a programmer passionate about developing and constantly striving to acquire
 
 ## Public GitHub Stats
 ![mikhail-kirillov's Stats](https://github-readme-stats.vercel.app/api?username=mikhail-kirillov&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+
 ![mikhail-kirillov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikhail-kirillov&theme=onedark&hide_border=false)
+
 ![mikhail-kirillov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-kirillov&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
 ---
