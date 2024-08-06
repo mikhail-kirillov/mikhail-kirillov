@@ -11,16 +11,16 @@ I am a programmer passionate about developing and constantly striving to acquire
 - **Distributed systems:** ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 - **Frameworks:** ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<!-- ## Contact Me
-- **Email:** 
-- **Telegram:**  -->
-
 ## Public GitHub Stats
 ![mikhail-kirillov's Stats](https://github-readme-stats.vercel.app/api?username=mikhail-kirillov&theme=onedark&show_icons=true&hide_border=false&count_private=true)
 
 ![mikhail-kirillov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikhail-kirillov&theme=onedark&hide_border=false)
 
 ![mikhail-kirillov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-kirillov&theme=onedark&show_icons=true&hide_border=false&layout=compact)
+
+<!-- ## Contact Me
+- **Email:** 
+- **Telegram:**  -->
 
 ---
 
