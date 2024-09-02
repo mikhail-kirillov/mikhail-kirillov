@@ -3,7 +3,7 @@
 ## About Me
 I am a programmer passionate about developing and constantly striving to acquire new knowledge and skills. I enjoy solving complex problems and creating something new and useful. My goal is to constantly grow as a professional and contribute to the community.
 
-## Skills
+## Worked With
 - **Programming languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 - **Web technologies:** ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - **Databases:** ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -18,9 +18,9 @@ I am a programmer passionate about developing and constantly striving to acquire
 
 ![mikhail-kirillov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-kirillov&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 
-<!-- ## Contact Me
-- **Email:** 
-- **Telegram:**  -->
+## Contact Me
+- **Email:** kirillov.mikhail.job@icloud.com
+- **Telegram:** [@kirillov_mikhail_job](https://t.me/kirillov_mikhail_job)
 
 ---
 
